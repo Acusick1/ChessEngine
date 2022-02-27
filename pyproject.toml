@@ -8,6 +8,7 @@ authors = ["Acusick1 <andrewcusick13@outlook.com>"]
 python = ">=3.9, <3.11"
 python-chess = "^1.999"
 chess-board = "^0.2.0"
+PettingZoo = {extras = ["classic"], version = "^1.15.0"}
 
 [tool.poetry.dev-dependencies]
 
